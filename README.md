@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvansh Singh</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+Student;Building+ESPORTS+ARENA;Exploring+AI%2FML+for+Indian+SMEs;Always+shipping+something+new" />
-</p>
+<h3 align="center">B.Tech CSE (AI/ML) Student · Building ESPORTS ARENA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/purvansh-singh-418316426/">
@@ -16,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=purvanshsingh784-dot&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -28,8 +21,7 @@
 - 🇮🇳 Based in India
 - 🛠️ Currently building **ESPORTS ARENA** — a full-stack tournament management platform for BGMI, Free Fire, Valorant, and COD Mobile
 - 🌱 Interested in AI/ML applications for the Indian SME market, and building practical, high-impact products
-- 📚 Currently sharpening DSA fundamentals on LeetCode
-- 🎯 2026 goal: ship ESPORTS ARENA to production and keep building real, usable projects — not just coursework
+- ⚡ Sharpening problem-solving on LeetCode alongside project work
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/purvansh-singh-418316426/) · [LeetCode](https://leetcode.com/u/Purvansh_singh/) · purvanshsingh784@gmail.com
 
 ---
@@ -40,4 +32,37 @@ A production-ready esports tournament management website for small online gaming
 
 - Players browse tournaments, register, pay via UPI, and view matches/leaderboards — no account needed
 - Admin dashboard for organizers to manage tournaments, matches, scoring, payments, and announcements
-- **Stack:** React + Vite + Tailwind (frontend) · Node.js + Express + MongoDB
+- **Stack:** React + Vite + Tailwind (frontend) · Node.js + Express + MongoDB (backend) · JWT auth · Vercel + Render + MongoDB Atlas (deploy)
+
+*(Link this repo here once pushed)*
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=purvanshsingh784-dot&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purvanshsingh784-dot" height="165" />
+</p>
+
+---
+
+### 📌 Other Work
+
+- Noise pollution mapping using smartphone sensors — college group project
+- Various coursework and practice projects (see pinned repos below)
