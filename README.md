@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Purvansh 👋
 
-<!--
-**purvanshsingh784-dot/purvanshsingh784-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech 2nd-year student, Computer Science (AI/ML)
+- 🇮🇳 Based in India
+- 🛠️ Currently building **ESPORTS ARENA** — a full-stack tournament management platform for BGMI, Free Fire, Valorant, and COD Mobile
+- 🌱 Interested in AI/ML applications for the Indian SME market, and building practical, high-impact products
+- 📫 Reach me here on GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Project — ESPORTS ARENA
+
+A production-ready esports tournament management website for small online gaming tournaments.
+
+- Players browse tournaments, register, pay via UPI, and view matches/leaderboards — no account needed
+- Admin dashboard for organizers to manage tournaments, matches, scoring, payments, and announcements
+- **Stack:** React + Vite + Tailwind (frontend) · Node.js + Express + MongoDB (backend) · JWT auth · Vercel + Render + MongoDB Atlas (deploy)
+
+*(Link this repo here once pushed)*
+
+---
+
+#### 🧰 Tech I work with
+
+`JavaScript` `React` `Node.js` `Express` `MongoDB` `C++` `HTML/CSS`
+
+---
+
+#### 📌 Other things I've worked on
+
+- Noise pollution mapping using smartphone sensors — college group project
+- Various coursework and practice projects (see pinned repos below)
