@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvansh Singh</h1>
-<h3 align="center">B.Tech CSE (AI/ML) Student · Building ESPORTS ARENA</h3>
+<h3 align="center">B.Tech CSE (AI/ML) Student </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/purvansh-singh-418316426/">
